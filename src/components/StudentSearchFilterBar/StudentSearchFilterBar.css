@@ -1,0 +1,23 @@
+.StudentSearchFilterBar__Container {
+    text-align: center;
+    margin-bottom: 12px;
+}
+
+.StudentSearchFilterBar {
+    font-family: 'Raleway Regular';
+    font-size: 15px;
+    outline: none;
+    width: 95%;
+    padding-left: 0;
+    padding-right: 0;
+    padding-bottom: 8px;
+    margin-top: 12px;
+    border: 0;
+    border-bottom: 1px;
+    border-color: gainsboro;
+    border-style: solid;
+}
+
+.StudentSearchFilterBar:focus-visible {
+    border-color: black;
+}

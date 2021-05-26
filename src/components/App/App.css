@@ -17,6 +17,10 @@
     border-radius: 8px;
 }
 
+.App__LoadingSection {
+    margin: 8px
+}
+
 .App__StudentCardDivider {
     border-color: whitesmoke;
     border-style: solid;

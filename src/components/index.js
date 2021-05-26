@@ -5,6 +5,7 @@ import StudentCardAccordionDetails from './StudentCardAccordionDetails';
 import StudentCardTagList from './StudentCardTagList';
 import StudentSearchByNameBar from './StudentSearchByNameBar';
 import StudentSearchByTagBar from './StudentSearchByTagBar';
+import StudentSearchFilterBar from './StudentSearchFilterBar';
 
 export {
     StudentCardTagForm,
@@ -14,4 +15,5 @@ export {
     StudentCardTagList,
     StudentSearchByNameBar,
     StudentSearchByTagBar,
+    StudentSearchFilterBar,
 };
