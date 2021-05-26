@@ -1,0 +1,15 @@
+.StudentCardTagList {
+    padding-left: 8px;
+    display: flex;
+    margin-bottom: 6px;
+}
+
+.StudentCardTagListItem {
+    font-family: 'Raleway Regular';
+    list-style-type: none;
+    background: gainsboro;
+    padding: 7px 10px;
+    border-radius: 4px;
+    font-size: 15px;
+    margin-left: 5px;
+}

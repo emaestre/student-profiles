@@ -1,0 +1,22 @@
+.StudentSearchByTagBar__Container {
+    text-align: center;
+    margin-bottom: 12px;
+}
+
+.StudentSearchByTagBar {
+    font-family: 'Raleway Regular';
+    outline: none;
+    width: 95%;
+    padding-left: 0;
+    padding-right: 0;
+    padding-bottom: 8px;
+    margin-top: 12px;
+    border: 0;
+    border-bottom: 1px;
+    border-color: gainsboro;
+    border-style: solid;
+}
+
+.StudentSearchByTagBar:focus-visible {
+    border-color: black;
+}
