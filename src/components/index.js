@@ -1,5 +1,5 @@
-import StudentCardTagForm from './StudentCardTagForm';
 import App from './App';
+import StudentCardTagForm from './StudentCardTagForm';
 import StudentCard from './StudentCard';
 import StudentCardAccordionDetails from './StudentCardAccordionDetails';
 import StudentCardTagList from './StudentCardTagList';
@@ -8,8 +8,8 @@ import StudentSearchByTagBar from './StudentSearchByTagBar';
 import StudentSearchFilterBar from './StudentSearchFilterBar';
 
 export {
-    StudentCardTagForm,
     App,
+    StudentCardTagForm,
     StudentCard,
     StudentCardAccordionDetails,
     StudentCardTagList,
